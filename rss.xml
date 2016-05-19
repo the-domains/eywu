@@ -4,8 +4,15 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 00:58:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google supercharges machine learning tasks with TPU custom chip]]></title>
+            <description><![CDATA[<article><h1>Google supercharges machine learning tasks with TPU custom chip</h1><p>Machine learning provides the underlying oomph to many of Google's most-loved applications. In fact, more than 100 teams are currently using machine learning at Google today, from Street View, to Inbox Smart Reply, to voice search. But one thing we know to be true at Google: great software shines brightest with great hardware underneath.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/179843ea7e673fbf438261ff42b3b20e4631ec7b.png"></article>]]></description>
+            <link>https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html</link>
+            <guid isPermaLink="false">a40f377a-89fd-4858-86c1-bf964011ae44</guid>
+            <pubDate>Thu, 19 May 2016 00:57:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>-</p>]]></description>
