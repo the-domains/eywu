@@ -4,8 +4,15 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 01:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:19:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trying out the iOS App]]></title>
+            <description><![CDATA[<article><h1>Trying out the iOS App</h1><p>Seems a bit buggy. Clicking on Upload Cover Photo doesn't do a thing even after granting access to the photo roll. I can't even press the enter button so all the sentences are in one block. There also doesn't seem to be a save or what not. I guess it auto saves but that's not clear. When I click back it just gives me a blank screen. I think there's a bit of a lag. Even worse is I'm typing but can't see what I'm typing because the page doesn't auto scroll up. Feels like many features were put together but not a whole lot of real world testing. Even for a beta app I'd expect a bit of polish or testing. It's also weird that all the editing tools are below the fold. So strange. Hmm i uploaded a photo but not sure where that one went. It's not visible anywhere.</p></article>]]></description>
+            <link>Eywu.com</link>
+            <guid isPermaLink="false">cd82c911-98cb-4f72-9a27-cbd542eac007</guid>
+            <pubDate>Thu, 19 May 2016 01:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Publishers and brands, get ready for the Snapchat algorithm - Digiday]]></title>
             <description><![CDATA[<article><h1>Publishers and brands, get ready for the Snapchat algorithm - Digiday</h1><p>Snapchat is developing an algorithm that will act as a gatekeeper between publishers and brands and their audiences, according to sources. Many publishers and brands are earmarking resources for Snapchat, the platform of the moment for reaching a large, young and active audience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1445ba9bc7b51f80f6f9a2dfa2d2a55c71d79c7.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Google App Indexing Replaced By Firebase App Indexing</h1><p>Today is Google I/O and I am spotting a some changes to the Google docs that have not yet been announced. It seems Google has renamed it's Google App Indexing to Firebase App Indexing. Firebase is a company Google acquired in October 2014 that makes products for software developers building mobile or web applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9d3d71c73096a3baa97283d90b5572ea51cc2bf.jpg"></article>]]></description>
             <link>https://www.seroundtable.com/google-firebase-app-indexing-22101.html</link>
             <guid isPermaLink="false">f06a84bd-59ec-4fb0-aec9-eb78c066c8e1</guid>
-            <pubDate>Thu, 19 May 2016 00:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google supercharges machine learning tasks with TPU custom chip]]></title>
-            <description><![CDATA[<article><h1>Google supercharges machine learning tasks with TPU custom chip</h1><p>Machine learning provides the underlying oomph to many of Google's most-loved applications. In fact, more than 100 teams are currently using machine learning at Google today, from Street View, to Inbox Smart Reply, to voice search. But one thing we know to be true at Google: great software shines brightest with great hardware underneath.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/179843ea7e673fbf438261ff42b3b20e4631ec7b.png"></article>]]></description>
-            <link>https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html</link>
-            <guid isPermaLink="false">a40f377a-89fd-4858-86c1-bf964011ae44</guid>
             <pubDate>Thu, 19 May 2016 00:57:42 GMT</pubDate>
         </item>
     </channel>
