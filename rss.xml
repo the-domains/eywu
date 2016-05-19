@@ -4,22 +4,8 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 01:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:00:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Google Home: A Smart Speaker With a Search Giant for a Brain]]></title>
-            <description><![CDATA[<article><h1>Google Home: A Smart Speaker With a Search Giant for a Brain</h1><p>MOUNTAIN VIEW, Calif. - Google on Wednesday introduced Google Home, a voice-controlled, Internet-connected speaker that competes directly with Amazon's smart speaker, Echo, which costs $180. The company also introduced Allo, a messaging app, and a rebranding of its virtual assistant. Here's a quick explanation of what these major announcements, made at the Google I/O developer conference, mean for consumers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e027e4d72aa9323ad664962f8601667acf43c7fe.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/05/19/technology/personaltech/google-home-a-smart-speaker-with-a-search-giant-for-a-brain.html?_r=0</link>
-            <guid isPermaLink="false">b9384fe4-66bc-4c66-8494-b970ac1c8e77</guid>
-            <pubDate>Thu, 19 May 2016 01:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bots Should Be More Like Plants and Less Like People - How We Get To Next]]></title>
-            <description><![CDATA[<article><h1>Why Bots Should Be More Like Plants and Less Like People - How We Get To Next</h1><p>The fact that plants are continuously monitoring their environment is what makes them interesting to Wright, and intriguing as a model for building networks of bots. But how do we translate plant communication into something we can understand as humans?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df8400884afbd76a9a09d258b99f1f4f024edece.jpg"></article>]]></description>
-            <link>https://howwegettonext.com/why-bots-should-be-more-like-plants-and-less-like-people-a168e03c1ad2#.ltt3qqwib</link>
-            <guid isPermaLink="false">c2355042-3e64-4962-98bc-0b382efc096b</guid>
-            <pubDate>Thu, 19 May 2016 01:00:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&#x3069;&#x30FC;&#x3082; &#x304F;&#x3093;!!!pic.twitter.com/fCxuHyAR79" src="https://pbs.twimg.com/media/Cix7536UgAAk6ex.jpg:large">]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/eywu/-/index.html</link>
             <guid isPermaLink="false">6d716bc0-fc9c-4080-8880-ea5d25efc5c2</guid>
             <pubDate>Thu, 19 May 2016 00:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Google assistant: A new search platform, rather than a gadget or an app]]></title>
+            <description><![CDATA[<article><h1>Meet Google assistant: A new search platform, rather than a gadget or an app</h1><p>Are you ready for Google assistant? Well, it's not a device you can buy nor an app you can purchase. Rather, it's a platform unveiled today by Google CEO Sundar Pichai, a name given to putting Google's smarts into anything. As Google puts it, a new evolution fo Google Search.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321d9522868f65f15a860de579e34941f5b85669.jpg"></article>]]></description>
+            <link>http://searchengineland.com/google-assistant-249903</link>
+            <guid isPermaLink="false">373c1305-9bcd-4b20-ad26-95a10463c57d</guid>
+            <pubDate>Thu, 19 May 2016 00:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google turns Firebase into its unified platform for mobile developers]]></title>
+            <description><![CDATA[<article><h1>Google turns Firebase into its unified platform for mobile developers</h1><p>Google offers a plethora of cloud services that mobile developers can use to power their apps. With Firebase, which it acquired in 2014, it already offered developers a dedicated platform and SDK for building mobile apps; today it is greatly expanding this service by launching a number of new features and integrating the service deeper into the rest of its cloud tools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc9df7dbc88e952d6dc6f3c35bbd1b1673943480.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/18/google-turns-firebase-into-its-unified-platform-for-mobile-developers/</link>
+            <guid isPermaLink="false">900a8b85-b52d-4c88-8068-fef73051f333</guid>
+            <pubDate>Thu, 19 May 2016 00:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
