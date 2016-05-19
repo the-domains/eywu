@@ -4,8 +4,15 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 00:58:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing rich cards]]></title>
+            <description><![CDATA[<article><h1>Introducing rich cards</h1><p>Rich cards are a new Search result format building on the success of rich snippets. Just like rich snippets, rich cards use schema.org structured markup to display content in an even more engaging and visual format, with a focus on providing a better mobile user experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/712ab45946671d2370502cac7eb77b1e28ddd873.png"></article>]]></description>
+            <link>https://webmasters.googleblog.com/2016/05/introducing-rich-cards.html</link>
+            <guid isPermaLink="false">b730210f-8f3d-4334-9506-81205690347b</guid>
+            <pubDate>Thu, 19 May 2016 00:57:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Florida court allows Google to be sued by publisher delisted as "pure spam"]]></title>
             <description><![CDATA[<article><h1>Florida court allows Google to be sued by publisher delisted as "pure spam"</h1><p>Courts in the US have consistently held that search engines have almost total discretion over the content on their pages and ranking algorithms under the First Amendment of the US Constitution. This is a legal defense against companies bringing claims about the economic impact of ranking changes or Google's SEO-related policies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c144c68e5875782ce5e6d5644551844474edce0a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/eywu/how-to-manage-employees-who-are-future-founders-life-learn/index.html</link>
             <guid isPermaLink="false">b9b57b63-afdd-467a-af04-7bffac3a8d63</guid>
             <pubDate>Thu, 19 May 2016 00:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7d6a88-56c5-443c-bfa0-df607f0ab5d2.jpg">]]></description>
-            <link>https://thegrid.ai/eywu/google-io-envy/index.html</link>
-            <guid isPermaLink="false">731777c9-26a2-4c19-9409-0dd33f778264</guid>
-            <pubDate>Thu, 19 May 2016 00:46:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
