@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eywu]]></title>
-        <description><![CDATA[eywu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Interesting Thoughts]]></title>
+        <description><![CDATA[Interesting Thoughts]]></description>
+        <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:47:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 00:54:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Manage Employees Who Are Future Founders - Life Learning]]></title>
+            <description><![CDATA[<article><h1>How To Manage Employees Who Are Future Founders - Life Learning</h1><p>At many businesses, you'll find that there at least some employees who want to found their own company. There is nothing implicitly wrong with this - having employees who want to become entrepreneurs in their own right is a hugely positive thing, and it can lead to an incredible advantage for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87621d4e2c26858c47afbc475f77f655df941a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eywu/how-to-manage-employees-who-are-future-founders-life-learn/index.html</link>
+            <guid isPermaLink="false">b9b57b63-afdd-467a-af04-7bffac3a8d63</guid>
+            <pubDate>Thu, 19 May 2016 00:54:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7d6a88-56c5-443c-bfa0-df607f0ab5d2.jpg">]]></description>
-            <link>undefinedgoogle-io-envy/index.html</link>
+            <link>https://thegrid.ai/eywu/google-io-envy/index.html</link>
             <guid isPermaLink="false">731777c9-26a2-4c19-9409-0dd33f778264</guid>
             <pubDate>Thu, 19 May 2016 00:46:56 GMT</pubDate>
         </item>
