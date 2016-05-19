@@ -4,15 +4,8 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 01:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:00:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&#x3069;&#x30FC;&#x3082; &#x304F;&#x3093;!!!pic.twitter.com/fCxuHyAR79" src="https://pbs.twimg.com/media/Cix7536UgAAk6ex.jpg:large">]]></description>
-            <link>https://twitter.com/methode/status/733097089748500480</link>
-            <guid isPermaLink="false">1dffadb2-ef93-4825-a4a6-ffe7a54e5da9</guid>
-            <pubDate>Thu, 19 May 2016 01:00:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="(&#x256F;&deg;&squ;&deg;&#xFF09;&#x256F;&#xFE35; &#x253B;&#x2501;&#x253B;pic.twitter.com/dtgSBqCKPF" src="https://pbs.twimg.com/media/Cix3IKeUoAArPPZ.jpg:large">]]></description>
@@ -75,6 +68,13 @@
             <link>http://techcrunch.com/2016/05/18/google-turns-firebase-into-its-unified-platform-for-mobile-developers/</link>
             <guid isPermaLink="false">900a8b85-b52d-4c88-8068-fef73051f333</guid>
             <pubDate>Thu, 19 May 2016 00:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Founder's Guide to Product Pricing]]></title>
+            <description><![CDATA[<article><h1>A Founder's Guide to Product Pricing</h1><p>Imagine if Dropbox didn't offer a freemium plan to users when the company started. It probably wouldn't be the Silicon Valley super unicorn that it is today. If Apple's products cost half of their current price, they might still make a profit, but they would not achieve $53B in net income like they did in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/300fae383a434b2981e2c473d2a28c9bd4debe94.png"></article>]]></description>
+            <link>https://thegrid.ai/eywu/a-founders-guide-to-product-pricing/index.html</link>
+            <guid isPermaLink="false">12db165a-38f0-462d-9b30-72457412ecc8</guid>
+            <pubDate>Thu, 19 May 2016 00:54:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
