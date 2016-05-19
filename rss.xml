@@ -4,8 +4,15 @@
         <description><![CDATA[Interesting Thoughts]]></description>
         <link>https://thegrid.ai/eywu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:00:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eywu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Startups Are Using Virtual Assistants]]></title>
+            <description><![CDATA[<article><h1>How Startups Are Using Virtual Assistants</h1><p>sums it up perfectly: "When you're building a vision, a team and a product all at once, time is your ultimate currency. Every day presents both the opportunity to break ground and the risk of losing ground.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db59202a06d9222cdae491e0378de87a86fac920.jpg"></article>]]></description>
+            <link>https://blog.zirtual.com/how-startups-are-using-virtual-assistants?utm_campaign=Submission&amp;utm_medium=Community&amp;utm_source=GrowthHackers.com</link>
+            <guid isPermaLink="false">5bf6a06f-ceef-431f-ae6c-b133616ab21b</guid>
+            <pubDate>Thu, 19 May 2016 01:00:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing rich cards]]></title>
             <description><![CDATA[<article><h1>Introducing rich cards</h1><p>Rich cards are a new Search result format building on the success of rich snippets. Just like rich snippets, rich cards use schema.org structured markup to display content in an even more engaging and visual format, with a focus on providing a better mobile user experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/712ab45946671d2370502cac7eb77b1e28ddd873.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.profitwell.com/successful-saas-ceo-guide/?utm_campaign=blog-posts&amp;utm_medium=email&amp;_hsenc=p2ANqtz-_nksazzEvb3Ln43mOXaaMuyw-_VNwZkt-Ry1sduHzAr3JCE1-oWTAwsJHCnjo4ZvScBswr1vZTbqdW0M35fGM3gYAaiA&amp;_hsmi=29597394&amp;utm_content=29597192&amp;utm_source=hs_email&amp;hsCtaTracking=31538353-4484-4b82-8700-f7088edac11a%7Cbb4488d3-0faf-4d4f-8d52-fd1abd567199</link>
             <guid isPermaLink="false">6c0907d8-1fcd-4cbb-ba34-5d8d725c3cbe</guid>
             <pubDate>Thu, 19 May 2016 00:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Manage Employees Who Are Future Founders - Life Learning]]></title>
-            <description><![CDATA[<article><h1>How To Manage Employees Who Are Future Founders - Life Learning</h1><p>At many businesses, you'll find that there at least some employees who want to found their own company. There is nothing implicitly wrong with this - having employees who want to become entrepreneurs in their own right is a hugely positive thing, and it can lead to an incredible advantage for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87621d4e2c26858c47afbc475f77f655df941a8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/eywu/how-to-manage-employees-who-are-future-founders-life-learn/index.html</link>
-            <guid isPermaLink="false">b9b57b63-afdd-467a-af04-7bffac3a8d63</guid>
-            <pubDate>Thu, 19 May 2016 00:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
