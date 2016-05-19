@@ -1,0 +1,28 @@
+name: eywu
+favicon: null
+layout_spectrum: 0.30241860751993954
+typography_spectrum: 0.5507727861404419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3940266470890492
+  lightness: 0.19601630815304816
+  saturation: 0.24811078305356205
+  rhythmicContrast: 0.4395527206361294
+purpose: []
